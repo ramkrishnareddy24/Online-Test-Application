@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Which of the following rivers is not a part of the 'Holy Trinity' in Hindu mythology?",
+    "choice1": "Ganga",
+    "choice2": "Yamuna",
+    "choice3": "Brahmaputra",
+    "choice4": "Saraswati",
+    "answer": 4
+  },
+  {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "choice1": "Rabindranath Tagore",
+    "choice2": "C.V. Raman",
+    "choice3": "S. Chandrashekar",
+    "choice4": "Amartya Sen",
+    "answer": 1
+  },
+  {
+    "question": "Which city in India is known as the 'City of Joy'?",
+    "choice1": "Kolkata",
+    "choice2": "Chennai",
+    "choice3": "Mumbai",
+    "choice4": "Hyderabad",
+    "answer": 1
+  },
+  {
+    "question": "The first Indian woman to win an Olympic medal was:",
+    "choice1": "Saina Nehwal",
+    "choice2": "Mary Kom",
+    "choice3": "Karanam Malleswari",
+    "choice4": "Sakshi Malik",
+    "answer": 3
+  },
+  
+  {
+    "question": "Which of these Movies won Academy Awards (Oscars) in Best Original Song for the year 2023?",
+    "choice1": "Vikram",
+    "choice2": "RRR",
+    "choice3": "Kantara",
+    "choice4": "Pathan",
+    "answer": 2
+  }
+  
+]
